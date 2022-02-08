@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Mon Feb  7 08:39:04 2022
+# Process ID: 1612
+# Current directory: E:/XilinkProjects/Lab_Task_1/lab_task_1/lab_task_1.runs/synth_1
+# Command line: vivado.exe -log basic_gates.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source basic_gates.tcl
+# Log file: E:/XilinkProjects/Lab_Task_1/lab_task_1/lab_task_1.runs/synth_1/basic_gates.vds
+# Journal file: E:/XilinkProjects/Lab_Task_1/lab_task_1/lab_task_1.runs/synth_1\vivado.jou
+# Running On: DESKTOP-PC47C8H, OS: Windows, CPU Frequency: 2904 MHz, CPU Physical cores: 2, Host memory: 8381 MB
+#-----------------------------------------------------------
+source basic_gates.tcl -notrace
